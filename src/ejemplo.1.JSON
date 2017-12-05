@@ -1,0 +1,149 @@
+{
+  "query": {
+    "count": 1,
+    "created": "2017-12-05T18:56:32Z",
+    "lang": "en-US",
+    "results": {
+      "channel": {
+        "units": {
+          "distance": "mi",
+          "pressure": "in",
+          "speed": "mph",
+          "temperature": "F"
+        },
+        "title": "Yahoo! Weather - Ranelagh, BA, AR",
+        "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-466333/",
+        "description": "Yahoo! Weather for Ranelagh, BA, AR",
+        "language": "en-us",
+        "lastBuildDate": "Tue, 05 Dec 2017 03:56 PM ART",
+        "ttl": "60",
+        "location": {
+          "city": "Ranelagh",
+          "country": "Argentina",
+          "region": " BA"
+        },
+        "wind": {
+          "chill": "75",
+          "direction": "68",
+          "speed": "14"
+        },
+        "atmosphere": {
+          "humidity": "56",
+          "pressure": "1016.0",
+          "rising": "0",
+          "visibility": "16.1"
+        },
+        "astronomy": {
+          "sunrise": "5:32 am",
+          "sunset": "7:55 pm"
+        },
+        "image": {
+          "title": "Yahoo! Weather",
+          "width": "142",
+          "height": "18",
+          "link": "http://weather.yahoo.com",
+          "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+        },
+        "item": {
+          "title": "Conditions for Ranelagh, BA, AR at 03:00 PM ART",
+          "lat": "-34.794182",
+          "long": "-58.198101",
+          "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-466333/",
+          "pubDate": "Tue, 05 Dec 2017 03:00 PM ART",
+          "condition": {
+            "code": "32",
+            "date": "Tue, 05 Dec 2017 03:00 PM ART",
+            "temp": "75",
+            "text": "Sunny"
+          },
+          "forecast": [
+            {
+              "code": "30",
+              "date": "05 Dec 2017",
+              "day": "Tue",
+              "high": "75",
+              "low": "64",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "30",
+              "date": "06 Dec 2017",
+              "day": "Wed",
+              "high": "77",
+              "low": "67",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "32",
+              "date": "07 Dec 2017",
+              "day": "Thu",
+              "high": "85",
+              "low": "66",
+              "text": "Sunny"
+            },
+            {
+              "code": "4",
+              "date": "08 Dec 2017",
+              "day": "Fri",
+              "high": "79",
+              "low": "66",
+              "text": "Thunderstorms"
+            },
+            {
+              "code": "4",
+              "date": "09 Dec 2017",
+              "day": "Sat",
+              "high": "83",
+              "low": "69",
+              "text": "Thunderstorms"
+            },
+            {
+              "code": "32",
+              "date": "10 Dec 2017",
+              "day": "Sun",
+              "high": "82",
+              "low": "61",
+              "text": "Sunny"
+            },
+            {
+              "code": "32",
+              "date": "11 Dec 2017",
+              "day": "Mon",
+              "high": "82",
+              "low": "68",
+              "text": "Sunny"
+            },
+            {
+              "code": "30",
+              "date": "12 Dec 2017",
+              "day": "Tue",
+              "high": "83",
+              "low": "70",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "30",
+              "date": "13 Dec 2017",
+              "day": "Wed",
+              "high": "84",
+              "low": "70",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "32",
+              "date": "14 Dec 2017",
+              "day": "Thu",
+              "high": "89",
+              "low": "72",
+              "text": "Sunny"
+            }
+          ],
+          "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/32.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Sunny\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Tue - Partly Cloudy. High: 75Low: 64\n<BR /> Wed - Partly Cloudy. High: 77Low: 67\n<BR /> Thu - Sunny. High: 85Low: 66\n<BR /> Fri - Thunderstorms. High: 79Low: 66\n<BR /> Sat - Thunderstorms. High: 83Low: 69\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-466333/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n<BR />\n]]>",
+          "guid": {
+            "isPermaLink": "false"
+          }
+        }
+      }
+    }
+  }
+}
